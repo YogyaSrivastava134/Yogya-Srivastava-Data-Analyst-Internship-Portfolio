@@ -389,7 +389,7 @@ A project-focused analytics portfolio demonstrating practical experience in Pyth
 
 ## ⭐ Portfolio Status
 
-**Apex Planet Data Analytics Internship — Tasks 5 / 5 Completed**
+**Apex Planet Data Analytics Internship — Tasks 1 - 4 Completed**
 
 **Master Portfolio — Final Integration | Core Project Showcase Complete**
 
