@@ -1,17 +1,4 @@
-PS C:\Users\yogya\OneDrive\Desktop\NIET\Internship\Apex Planet\Data Analytics\Yogya-Srivastava-Data-Analyst-Internship-Portfolio> Get-ChildItem -Recurse -File |
->> Where-Object { $_.FullName -notmatch '\\.git\\|\\venv\\' } |
->> ForEach-Object {
->>     $_.FullName.Replace((Get-Location).Path + "\", "")
->> }
-.gitignore
-README.md
-assets\task1-preview.png
-assets\task2-dashboard.png
-assets\task3-dashboard.png
-assets\task4-preview.png
-presentation\Apex_Planet_Master_Portfolio_Presentation.pptx
-reflections\learning-reflections.md
-PS C:\Users\yogya\OneDrive\Desktop\NIET\Internship\Apex Planet\Data Analytics\Yogya-Srivastava-Data-Analyst-Internship-Portfolio> Get-Content README.md
+
 # Yogya Srivastava — Data Analyst Internship Portfolio
 
 ## Apex Planet Data Analytics Internship
