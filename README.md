@@ -351,27 +351,19 @@ The objective is not simply to produce charts or statistics, but to translate ev
 
 ```text
 Yogya-Srivastava-Data-Analyst-Internship-Portfolio/
-â”‚
-â”œâ”€â”€ README.md
-â”œâ”€â”€ .gitignore
-â”œâ”€â”€ assets/
-â”‚   â”œâ”€â”€ task1-preview.png
-â”‚   â”œâ”€â”€ task2-dashboard.png
-â”‚   â”œâ”€â”€ task3-dashboard.png
-â”‚   â””â”€â”€ task4-preview.png
-â”œâ”€â”€ presentation/
-â””â”€â”€ reflections/
-    â””â”€â”€ learning-reflections.md
+│
+├── README.md
+├── .gitignore
+├── assets/
+│   ├── task1-preview.png
+│   ├── task2-dashboard.png
+│   ├── task3-dashboard.png
+│   └── task4-preview.png
+├── presentation/
+│   └── Apex_Planet_Master_Portfolio_Presentation.pptx
+└── reflections/
+    └── learning-reflections.md
 ```
-
-### Final Portfolio Materials
-
-- **[Master Portfolio Presentation](presentation/Apex_Planet_Master_Portfolio_Presentation.pptx)**
-- **[Learning Reflections](reflections/learning-reflections.md)**
-
-The master portfolio is intentionally curated rather than duplicating every file from the four project repositories. The individual repositories contain the detailed datasets, scripts, analysis outputs, dashboards, reports, and project-specific documentation.
-
----
 
 # 🎯 Final Takeaway
 
@@ -397,9 +389,8 @@ A project-focused analytics portfolio demonstrating practical experience in Pyth
 
 ## ⭐ Portfolio Status
 
-**Apex Planet Data Analytics Internship — Tasks 1â€“4 Completed**
+**Apex Planet Data Analytics Internship — Tasks 5 / 5 Completed**
 
 **Master Portfolio — Final Integration | Core Project Showcase Complete**
 
 Final portfolio materials, including the master presentation and learning reflections, are included in this repository.
-PS C:\Users\yogya\OneDrive\Desktop\NIET\Internship\Apex Planet\Data Analytics\Yogya-Srivastava-Data-Analyst-Internship-Portfolio>
