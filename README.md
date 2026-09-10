@@ -111,7 +111,7 @@ Potential anomalies were flagged rather than blindly removed, preserving informa
 - **Patna:** highest row-level city sales at approximately **₹19.29M**
 - **Bengaluru:** highest average transaction value at approximately **₹153,881.76**
 - Male customers contributed approximately **51.98%** of total sales
-- The **36â€“50 age group** generated approximately **₹45.56M** in sales
+- The **36 - 50 age group** generated approximately **₹45.56M** in sales
 
 ### Correlation Findings
 
@@ -244,7 +244,7 @@ A two-sided **Welch independent-samples t-test** was performed at the customer l
 | p-value | **0.534797** |
 | 95% Confidence Interval | **−₹10,505.79 to ₹20,230.35** |
 | Cohen's d | **0.041116** |
-| Decision | **Fail to Reject Hâ‚€** |
+| Decision | **Fail to Reject H₀** |
 
 Because **p = 0.534797 > 0.05**, there was insufficient evidence to reject the null hypothesis. The confidence interval included zero and the effect size was very small.
 
